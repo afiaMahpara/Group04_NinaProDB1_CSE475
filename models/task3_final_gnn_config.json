@@ -1,0 +1,14 @@
+{
+  "arch": "SAGE",
+  "hidden_dim": 64,
+  "num_layers": 1,
+  "dropout": 0.0,
+  "pooling": "mean",
+  "edge_weighted": true,
+  "graph_type": "adjacency",
+  "optimizer": "AdamW",
+  "use_scheduler": true,
+  "weighted_loss": true,
+  "epochs": 80,
+  "patience": 12
+}
