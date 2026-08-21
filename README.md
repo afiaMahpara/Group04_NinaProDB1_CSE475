@@ -109,7 +109,7 @@ pip install torch torch_geometric scikit-learn xgboost lightgbm pandas numpy mat
 
 ## Reports
 
-Full written reports (LaTeX source in `report/`) for each task include complete
+Full written reports for each task include complete
 methodology, results tables, figures, and — critically — an honest discussion of
 why the proposed GNN underperforms classical baselines in this project, connecting
 the result back to the Task 1 EDA's label-collision finding.
